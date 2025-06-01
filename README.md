@@ -27,7 +27,7 @@ This project involves deploying the **BakeHouse** website on **AWS** using a com
 ---
 
 ## 🗺️ Architecture Diagram
-![AWS Architecture Diagram]([https://example.com/your-diagram.png](https://github.com/Zyaddhossam/BakeHouse/blob/main/AWS%20Project.png))
+![AWS Architecture Diagram](https://example.com/your-diagram.png](https://github.com/Zyaddhossam/BakeHouse/blob/main/AWS%20Project.png)
 
 ---
 
