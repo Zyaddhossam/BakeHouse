@@ -13,6 +13,27 @@ This project involves deploying the **BakeHouse** website on **AWS** using a com
 
 ---
 
+## Project structure
+```
+BakeHouse
+├── Screenshots
+│   └── VPC - 1.png #VPC Contents 
+│   └── Security Groups - 2.png #All Security groups
+│   └── Launch Templates - 3.jpg #The Launch Templates for ASG
+│   └── ASG - 4.jpg #The ASG itself
+│   └── Target group - 5.jpg #Target Group for ASG
+│   └── Instances - 6.jpg #Instances used and launched by ASG
+│   └── DataBase.png #Database in AWS RDS
+│   └── EC2 - HTTP.jpg #Enabling HTTP on the instances
+│   └── Money - Used.jpg #Money used over all project
+│   └── WEB.jpg #Website Running
+├── AWS Project.png #The project diagram
+├── BAKEHOUSE - Presentation.pdf #Project Presentation
+├── Documentation.pdf #Documentation about the project details
+├── Financial Proposal.pdf #Proposal for Cost estimation
+└── aws project.drawio #The project diagram - Editable
+
+```
 ## ☁️ AWS Services Used
 
 - **VPC**: Created a Virtual Private Cloud to isolate resources securely.
